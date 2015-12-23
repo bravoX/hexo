@@ -4,7 +4,7 @@
 
 # Site
 title: Bravo
-subtitle:
+subtitle: Bravo's blog
 description: Bravo's blog
 author: Xing panning
 language:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: pacman
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
