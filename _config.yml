@@ -68,4 +68,6 @@ theme: pacman
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:bravoX/bravoX.github.io.git
+  branch: master
